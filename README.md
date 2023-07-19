@@ -20,5 +20,5 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre | **Practica 3** *Hola Mundo Wearable* |
-| Descripción  |  Creación de primer mensaje de hola mundo para wearables cuadrados y redondos En esta práctica realizada en Android Studio, se desarrolló una aplicación para un dispositivo wearable que imprime un mensaje de "Hola, alumno" en dispositivos redondos y cuadrados. A continuación, se describe el proceso seguido para llevar a cabo esta tarea |
+| Descripción  |  Creación de primer mensaje de hola mundo para wearables. |
 |  Fecha de Carga | 19/05/23  |
