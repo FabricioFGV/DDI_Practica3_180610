@@ -8,7 +8,7 @@
 
 
 ## Ingeniería en Desarrollo y Gestión de Software
-## Eliel Díaz Galindo 
+## Fabricio Guzmán Vite
 ## 9A
 ### Desarrollo de Dispositivos Inteligentes
 
@@ -20,5 +20,5 @@
 |  Característica |  Información |
 | :------------: | :------------: |
 | Nombre | **Practica 3** *Hola Mundo Wearable* |
-| Descripción  |  Creación de primer mensaje de hola mundo para wearables. |
+| Descripción  |  Creación del primer mensaje de hola mundo para wearables. |
 |  Fecha de Carga | 19/05/23  |
